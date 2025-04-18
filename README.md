@@ -4,4 +4,4 @@
 
 파이썬 프로그래밍
 
-* [강의 동영상](https://www.youtube.com/playlist?list=PLIYf0rAjO5mZ_0yliyLVAuCQIO7ckw7Oo)
+* <a href="https://www.youtube.com/playlist?list=PLIYf0rAjO5mZ_0yliyLVAuCQIO7ckw7Oo" target="_blank">강의 동영상</a>
